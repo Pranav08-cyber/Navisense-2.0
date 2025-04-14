@@ -1,3 +1,6 @@
+Cipher Squad
+Team Lead : Pranav Gajanan Dandge 24BCY10366
+
 # Navisense-2.0
 ![WhatsApp Image 2025-03-23 at 17 46 59_7f9c35ca](https://github.com/user-attachments/assets/5a002b1d-cc5c-4389-8d58-8ef1bca3d96d)
 
